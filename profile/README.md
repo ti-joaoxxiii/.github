@@ -56,7 +56,14 @@ Esta organização reúne esses projetos em um lugar só, com código aberto, pr
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
+    <td width="50%" valign="top">
+      <p align="center"><img src="https://apps.athomon.com/assets/wildlife-kingdon/floresta.webp" alt="Wildlife Kingdon" width="46%"></p>
+      <h3>Wildlife Kingdon</h3>
+      <p>Jogo idle de construção: desenvolva habitats na Floresta, na Ilha Tropical e na Região Polar, colecione animais e veja o mundo evoluir, até com o jogo fechado.</p>
+      <p><sub><b>Desenvolvido por</b> Leonardo Bohn Heinzmann</sub></p>
+      <p><i>APK em breve.</i></p>
+    </td>
+    <td width="50%" valign="top">
       <h3>O seu projeto aqui</h3>
       <p>Fez um app, jogo ou ferramenta no curso? <a href="https://github.com/ti-joaoxxiii/ti-joaoxxiii.github.io/issues/new?template=novo-projeto.yml"><b>Enviar projeto</b></a></p>
     </td>
@@ -101,6 +108,7 @@ Depois é só preencher o formulário [**Enviar projeto**](https://github.com/ti
 **Gabriel Zatta**: Boss Rush<br>
 **Murilo Spagnoli**: ENEMigo<br>
 **Murilo Vieira**: Shadow Duel Remastered, Shadow Duel (original), parceria em ENEMigo, Boss Rush e Aventura do Moai<br>
+**Leonardo Bohn Heinzmann**: Wildlife Kingdon<br>
 **Mauri**: orientação do Shadow Duel original
 
 <br>
