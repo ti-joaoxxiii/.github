@@ -81,6 +81,8 @@ Esta organização reúne esses projetos em um lugar só, com código aberto, pr
 
 ## Como publicar um projeto aqui
 
+Ainda não faz parte da organização? Preencha [**Pedir para entrar**](https://github.com/ti-joaoxxiii/ti-joaoxxiii.github.io/issues/new?template=pedir-para-entrar.yml). Um administrador aprova e manda o convite.
+
 Cada projeto é um repositório desta organização. Para ele aparecer bem no GitHub e no site:
 
 1. **README** com uma frase dizendo o que é, prints, como rodar e os créditos.
