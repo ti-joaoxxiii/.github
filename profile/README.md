@@ -56,15 +56,9 @@ Esta organização reúne esses projetos em um lugar só, com código aberto, pr
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3>ChessDiary</h3>
-      <p>Agenda e diário pessoal 100% offline com visual de xadrez: cada compromisso cumprido vale pontos, e o nível sobe peça por peça, do peão ao rei.</p>
-      <p><sub><b>Desenvolvido por</b> Igor Augusto Gamarra<br><b>Em parceria com</b> Murilo Vieira</sub></p>
-      <p><i>Código e APK em breve.</i></p>
-    </td>
-    <td width="50%" valign="top">
+    <td colspan="2" align="center">
       <h3>O seu projeto aqui</h3>
-      <p>Fez um app, jogo ou ferramenta no curso? Ele pode entrar na organização e no site. Veja o padrão logo abaixo.</p>
+      <p>Fez um app, jogo ou ferramenta no curso? <a href="https://github.com/ti-joaoxxiii/ti-joaoxxiii.github.io/issues/new?template=novo-projeto.yml"><b>Enviar projeto</b></a></p>
     </td>
   </tr>
 </table>
@@ -77,7 +71,6 @@ Esta organização reúne esses projetos em um lugar só, com código aberto, pr
   <img src="https://img.shields.io/badge/Java-111?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Android_Studio-111?style=flat-square&logo=androidstudio&logoColor=3DDC84" alt="Android Studio">
   <img src="https://img.shields.io/badge/XML-111?style=flat-square&logo=xml&logoColor=white" alt="XML">
-  <img src="https://img.shields.io/badge/Room-111?style=flat-square&logo=sqlite&logoColor=white" alt="Room">
   <img src="https://img.shields.io/badge/Godot_4-111?style=flat-square&logo=godotengine&logoColor=478CBF" alt="Godot 4">
   <img src="https://img.shields.io/badge/Blender-111?style=flat-square&logo=blender&logoColor=F5792A" alt="Blender">
   <img src="https://img.shields.io/badge/HTML5-111?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5">
@@ -96,16 +89,16 @@ Cada projeto é um repositório desta organização. Para ele aparecer bem no Gi
 4. **Créditos claros:** quem desenvolveu, quem ajudou em parceria e quem orientou.
 5. **Nada de senhas ou chaves** no repositório.
 
-Depois é só avisar os administradores da organização para o projeto entrar no [site](https://apps.athomon.com).
+Depois é só preencher o formulário [**Enviar projeto**](https://github.com/ti-joaoxxiii/ti-joaoxxiii.github.io/issues/new?template=novo-projeto.yml) para ele entrar no [site](https://apps.athomon.com).
 
 <br>
 
 ## Créditos
 
-**Igor Augusto Gamarra**: ChessDiary, Aventura do Moai, Shadow Duel (original)<br>
+**Igor Augusto Gamarra**: Aventura do Moai, Shadow Duel (original)<br>
 **Gabriel Zatta**: Boss Rush<br>
 **Murilo Spagnoli**: ENEMigo<br>
-**Murilo Vieira**: Shadow Duel Remastered, Shadow Duel (original), parceria em ENEMigo, ChessDiary, Boss Rush e Aventura do Moai<br>
+**Murilo Vieira**: Shadow Duel Remastered, Shadow Duel (original), parceria em ENEMigo, Boss Rush e Aventura do Moai<br>
 **Mauri**: orientação do Shadow Duel original
 
 <br>
